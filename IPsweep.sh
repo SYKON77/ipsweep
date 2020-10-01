@@ -1,4 +1,4 @@
-# ipsweep
+# This is a ipsweep from seq 1 to 254
 
 #!/bin/bash
 
